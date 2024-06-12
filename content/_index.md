@@ -38,17 +38,17 @@ sections:
         My research focuses on understanding visual search strategies through the use of eye-tracking and computational modeling techniques. I have conducted studies on conjunction search tasks, revealing how the visual system processes search displays and how participants adopt specific search strategies. Additionally, I am interested in applying statistical and computational methods to psychological research, bridging the gap between these disciplines to advance the understanding of cognitive processes.
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   - block: collection
     content:
       title: Recent Publications
@@ -56,7 +56,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: citation
   # - block: collection

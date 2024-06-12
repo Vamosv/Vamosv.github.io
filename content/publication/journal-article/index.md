@@ -1,4 +1,19 @@
 ---
+title: Complex background information slows down parallel search efficiency by reducing
+  the strength of interitem interactions.
+authors:
+- Andrea Yaoyun Cui
+- Alejandro Lleras
+- Gavin Jun Peng Ng
+- Simona Buetti
+date: '2023-01-01'
+publishDate: '2024-06-12T02:15:21.675308Z'
+publication_types:
+- article-journal
+publication: '*Journal of Experimental Psychology: Human Perception and Performance*'
+---
+
+<!-- ---
 title: "An example journal article"
 authors:
 - admin
@@ -62,7 +77,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
----
+--- -->
 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.

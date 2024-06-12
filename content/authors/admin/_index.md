@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 崔
+title: Andrea Yaoyun Cui
 
 bio: A researcher with curiosity in human mind and beyond.
 
@@ -57,8 +57,12 @@ interests:
 education:
   - area: PhD in Psychology
     institution: University of Illinois at Urbana-Champaign
-    date_start: 2020
-    date_end: 2025
+    date_start: 2020-08-17
+    date_end: 2025-05-17
+  - area: MS in Applied Statistics
+    institution: University of Illinois at Urbana-Champaign
+    date_start: 2021-08-17
+    date_end: 2024-05-17
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -109,21 +113,7 @@ education:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-# skills:
-#   - name: Technical Skills
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: code-bracket
-#       - name: Data Science
-#         description: ''
-#         percent: 100
-#         icon: chart-bar
-#       - name: SQL
-#         description: ''
-#         percent: 40
-#         icon: circle-stack
+skills:
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -140,6 +130,20 @@ education:
         description: ''
         percent: 80
         icon: camera
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
 
 # languages:
 #   - name: English

@@ -55,7 +55,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - publication/journal-article
         exclude_featured: true
     design:
       view: citation
